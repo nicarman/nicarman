@@ -8,7 +8,7 @@
 - 📫 How to reach me: the.nic.arman@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Chess
-
+- <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66a400a63972b56590fd20a4?variant=dark" alt="roadmap.sh"/></a>
 
 <!--
 **nicarman/nicarman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
